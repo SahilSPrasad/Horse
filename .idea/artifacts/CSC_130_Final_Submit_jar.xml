@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSC_130_Final_Submit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSC_130_Final_Submit_jar</output-path>
+    <root id="archive" name="CSC_130_Final_Submit.jar">
+      <element id="module-output" name="CSC_130_Final_Submit" />
+    </root>
+  </artifact>
+</component>
